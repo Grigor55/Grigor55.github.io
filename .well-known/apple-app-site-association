@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9M64Z29D8M.com.steppa.ios"],
+        "components": [
+          { "/": "/join/*" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.steppa.app",
       "sha256_cert_fingerprints": [
-        "F2:B9:39:15:17:84:8D:53:15:F5:E7:F5:9C:5F:76:29:35:91:0C:62:4D:8B:A2:81:C5:4C:20:EE:29:DC:EE:4B"
+        "F2:B9:39:15:17:84:8D:53:15:F5:E7:F5:9C:5F:76:29:35:91:0C:62:4D:8B:A2:81:C5:4C:20:EE:29:DC:EE:4B",
+        "PASTE_REAL_PRODUCTION_FINGERPRINT_HERE"
       ]
     }
   }
